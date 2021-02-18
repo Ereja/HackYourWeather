@@ -25,7 +25,7 @@ app.get("/", (req, res) => {
 });
 
 app.post("/weather", (req, res) => {
-  const API_KEY = require("./sources/keys.json").API_KEY;
+  const API_KEY = process.env.API_KEY;
   const cityName = req.body.cityName;
   if (!cityName) {
     res.status(400);
