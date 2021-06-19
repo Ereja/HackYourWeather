@@ -5,9 +5,9 @@ Simple backend application that displays current weather of chosen city.
 [OpenWeatherMap](https://openweathermap.org/) API used to get all the weather data
 
 ## NPM packages used: 
-[Axios](https://www.npmjs.com/package/axios) used for fetching data from OpenWeatherMap
-[Express](https://www.npmjs.com/package/express) for creating a server
-[Express Handlebars](https://www.npmjs.com/package/express-handlebars) for rending HTML files from backend
+[Axios](https://www.npmjs.com/package/axios) used for fetching data from OpenWeatherMap <br/>
+[Express](https://www.npmjs.com/package/express) for creating a server <br/>
+[Express Handlebars](https://www.npmjs.com/package/express-handlebars) for rending HTML files from backend <br/>
 
 ## Others:
 [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) for styling and making sure that application is fully responsive, without using media querries
