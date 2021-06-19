@@ -1,16 +1,16 @@
 # HackYourWeather
 Simple backend application that displays current weather of chosen city.
 
-# Created using:
+## Created using:
 ## Used API:
 [OpenWeatherMap](https://openweathermap.org/) API used to get all the weather data
 
-##NPM packages used: 
+## NPM packages used: 
 [Axios](https://www.npmjs.com/package/axios) used for fetching data from OpenWeatherMap
 [Express](https://www.npmjs.com/package/express) for creating a server
 [Express Handlebars](https://www.npmjs.com/package/express-handlebars) for rending HTML files from backend
 
-##Others:
+## Others:
 [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) for styling and making sure that application is fully responsive, without using media querries
 
 
