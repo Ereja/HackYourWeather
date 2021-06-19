@@ -1,7 +1,6 @@
 # HackYourWeather
 Simple backend application that displays current weather of chosen city.
 
-## Created using:
 ## Used API:
 [OpenWeatherMap](https://openweathermap.org/) API used to get all the weather data
 
