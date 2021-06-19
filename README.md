@@ -1,4 +1,5 @@
 # HackYourWeather
+![](https://user-images.githubusercontent.com/66121679/122640308-30450680-d0ff-11eb-8fd8-9d34deac41b1.JPG | width=500)
 Simple backend application that displays current weather of chosen city.
 
 ## Used API:
